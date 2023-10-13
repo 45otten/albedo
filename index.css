@@ -403,7 +403,7 @@ a>span{
 }
 .viewall{
     text-decoration: none;
-    color: none;
+    color: white;
 }
 .viewall:hover{
     text-decoration: none;
