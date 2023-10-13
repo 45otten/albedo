@@ -312,6 +312,7 @@ a>span{
     font-weight: 300;
     display: flex;
     width: 50%;
+    text-align: center;
     justify-content: center;
     align-items: center;
 }
