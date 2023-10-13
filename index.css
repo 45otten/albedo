@@ -319,7 +319,7 @@ a>span{
 @media (max-width:1000px){
     
     .d4s1,.d4s2{
-        width: 100%;
+        width: 50%;
     }
     .d4s1>h3{
         text-align: center;
