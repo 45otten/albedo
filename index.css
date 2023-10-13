@@ -403,6 +403,12 @@ a>span{
     font-size: 20px;
     opacity: 0.7;
 }
+@media (max-width:800px){
+    .d5ss2>button{
+        
+        width: 100%;
+    }
+}
 .d5ss2>button:hover{
     opacity: 2.5;
 }
