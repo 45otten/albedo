@@ -107,6 +107,7 @@ header>:hover{
 }
 .menubutton{
     display: none;
+    position: fixed;
 }
 @media (min-width:1140px){
     header>.menubutton{
