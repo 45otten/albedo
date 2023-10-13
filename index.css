@@ -321,7 +321,8 @@ a>span{
     justify-content: center;
     align-items: center;
     width: 50%;
-    overflow: hidden;
+    flex-wrap: wrap;
+    /* overflow: hidden; */
 }
 
 @media (max-width:1000px){
@@ -405,7 +406,6 @@ a>span{
 }
 @media (max-width:800px){
     .d5ss2>button{
-        
         width: 100%;
     }
 }
