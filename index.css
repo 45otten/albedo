@@ -311,9 +311,11 @@ a>span{
     font-family:"Cambay Regular",sans-serif;
     font-weight: 300;
     display: flex;
-    align-items: center;
+    width: 50%;
+    justify-content: center;
     margin-right: 70px;
 }
+
 @media (max-width:1000px){
     
     .d4s1,.d4s2{
@@ -325,8 +327,8 @@ a>span{
 }
 .d4s2{
     display: flex;
-    align-items: center;
-    width: 30%;
+    width: 50%;
+    justify-content: center;
     /* border: 2px solid gray; */
     overflow: hidden;
 }
