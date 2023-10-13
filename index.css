@@ -325,12 +325,17 @@ a>span{
 }
 
 @media (max-width:1000px){
-    
+    .div4{
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
     .d4s1,.d4s2{
         width: 50%;
-    }
+        align-items: center;
 }
-
+}
 .d4s2>i{
     margin: 5px;
     padding: 15px;
